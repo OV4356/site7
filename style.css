@@ -1,0 +1,51 @@
+header {
+    background-color: lightsalmon;
+    margin: 3px;
+}
+header h2 {
+    color: red;
+    text-align: center;
+}
+nav{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid lightsalmon;
+}
+nav a {
+    text-align: center;
+    border: 1px solid FireBrick;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: Maroon;
+}
+p {
+    text-align: center;
+}
+main img {
+    height: 300px;
+    width: 250px;
+}
+
+
+table {
+    border: 1px solid darkred;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid darkred;
+}
+tr {
+    border: 1px solid darkred;
+}
+p {
+    border: 1px solid red;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: LightYellow;
+}
+p footer {
+    background-color: LightYellow;
+}
